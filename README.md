@@ -2,7 +2,7 @@
 
 
 
-## Contact
+### Contact
 
 📫 For further inquiries, you can reach me through my email or LinkedIn page:
 
