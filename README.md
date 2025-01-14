@@ -4,6 +4,13 @@ I am a mathematician and a data scientist, with a passion for understanding comp
 
 Behind the data is a story, and I want to tell that story.
 
+**Let’s Connect!** Whether you’re interested in collaborating, need tutoring, or just want to chat about math, AI, or data science, feel free to reach out. I'm always excited to connect with like-minded individuals! 
+- **Email**: [raghadkibrahim@gmail.com](mailto:raghadkibrahim@gmail.com)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/raghadkibrahim)
+
+
+<hr>
+
 ## Featured Projects
 - [**Toronto Traffic Collisions EDA Project**](https://github.com/raghadkibrahim/toronto-collisions-eda)  
        Analyzed traffic collisions to gain insights into collision trends, identify potential hotspots, and explore temporal and spatial patterns to better understand road safety issues in Toronto. 
@@ -32,9 +39,7 @@ Behind the data is a story, and I want to tell that story.
 ![PowerBI](https://img.shields.io/badge/Visualization-PowerBI-gold)
 
 
-### Contact
 
-📫 For further inquiries, you can reach me through my email or LinkedIn page:
 
-- **Email**: raghadkibrahim@gmail.com
-- [LinkedIn](www.linkedin.com/in/raghadkibrahim)
+
+
