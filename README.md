@@ -6,23 +6,23 @@ Behind the data is a story, and I want to tell that story.
 
 ### Technical Skills
 
-![Python](https://img.shields.io/badge/Code-Python-blue)  
-![R](https://img.shields.io/badge/Code-R-blueviolet)  
-![SQL](https://img.shields.io/badge/Database-SQL-orange)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
-![Java](https://img.shields.io/badge/Code-Java-red)  
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![R](https://img.shields.io/badge/Code-R-blueviolet)
+![SQL](https://img.shields.io/badge/Database-SQL-orange)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Java](https://img.shields.io/badge/Code-Java-red)
 ![C](https://img.shields.io/badge/Code-C-lightgrey)  
-![C++](https://img.shields.io/badge/Code-C%2B%2B-teal)  
-![HTML](https://img.shields.io/badge/Markup-HTML-orange)  
+![C++](https://img.shields.io/badge/Code-C%2B%2B-teal)
+![HTML](https://img.shields.io/badge/Markup-HTML-orange)
 ![CSS](https://img.shields.io/badge/Style-CSS-blue)
 
-![NumPy](https://img.shields.io/badge/Library-NumPy-green)  
-![Pandas](https://img.shields.io/badge/Library-Pandas-darkgreen)  
-![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-brightgreen)  
-![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-darkblue)  
+![NumPy](https://img.shields.io/badge/Library-NumPy-green)
+![Pandas](https://img.shields.io/badge/Library-Pandas-darkgreen)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-brightgreen)
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-darkblue)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange)  
-![PyTorch](https://img.shields.io/badge/Framework-PyTorch-lightcoral)  
-![Tableau](https://img.shields.io/badge/Visualization-Tableau-navy)  
+![PyTorch](https://img.shields.io/badge/Framework-PyTorch-lightcoral)
+![Tableau](https://img.shields.io/badge/Visualization-Tableau-navy)
 ![PowerBI](https://img.shields.io/badge/Visualization-PowerBI-gold)
 
 
