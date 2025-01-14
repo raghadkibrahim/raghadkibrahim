@@ -1,6 +1,6 @@
 # Hi there, I'm Raghad 🌟 
 
-I am a mathematician and a data scientist, with a passion for understanding complex systems and telling meaningful stories hidden within data. My journey is shaped by a deep desire to demystify math for others, making it more accessible and engaging, especially for those who’ve struggled with it in traditional learning settings. My mission is to empower learners, challenge assumptions, and contribute to research that bridges the gap between brain research and machine learning.
+I am a mathematician and a data scientist, with a passion for understanding complex systems and telling meaningful stories hidden within data. My journey is shaped by a deep desire to demystify math for others, making it more accessible and engaging. My mission is to empower learners, challenge assumptions, and contribute to research that bridges the gap between brain research and machine learning.
 
 Behind the data is a story, and I want to tell that story.
 
