@@ -5,7 +5,6 @@ I am a mathematician and a data scientist, with a passion for understanding comp
 Behind the data is a story, and I want to tell that story.
 
 ### Technical Skills
-### Technical Skills
 
 ![Python](https://img.shields.io/badge/Code-Python-blue)  
 ![R](https://img.shields.io/badge/Code-R-blueviolet)  
