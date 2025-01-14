@@ -4,7 +4,8 @@ I am a mathematician and a data scientist, with a passion for understanding comp
 
 Behind the data is a story, and I want to tell that story.
 
-**Let’s Connect!** Whether you’re interested in collaborating, need tutoring, or just want to chat about math, AI, or data science, feel free to reach out. I'm always excited to connect with like-minded individuals! 
+**Let’s Connect!**   
+Whether you’re interested in collaborating, need tutoring, or just want to chat about math, AI, or data science, feel free to reach out. I'm always excited to connect with like-minded individuals! 
 - **Email**: [raghadkibrahim@gmail.com](mailto:raghadkibrahim@gmail.com)  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/raghadkibrahim)
 
