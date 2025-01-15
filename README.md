@@ -6,11 +6,12 @@ Behind the data is a story, and I want to tell that story.
 
 **Let’s Connect!**   
 Whether you’re interested in collaborating, need tutoring, or just want to chat about math, AI, or data science, feel free to reach out. I'm always excited to connect with like-minded individuals! 
-- **Email**: [raghadkibrahim@gmail.com](mailto:raghadkibrahim@gmail.com)  
+- [**Email**](mailto:raghadkibrahim@gmail.com)  
 - [**LinkedIn Profile**](https://www.linkedin.com/in/raghadkibrahim)
 
-
-<hr>
+<br>
+<br>
+<br>
 
 ## Featured Projects
 - [**Toronto Traffic Collisions EDA Project**](https://github.com/raghadkibrahim/toronto-collisions-eda)  
