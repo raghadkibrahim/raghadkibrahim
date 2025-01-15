@@ -14,7 +14,11 @@ Whether you’re interested in collaborating, need tutoring, or just want to cha
 
 ## Featured Projects
 - [**Toronto Traffic Collisions EDA Project**](https://github.com/raghadkibrahim/toronto-collisions-eda)  
-       Analyzed traffic collisions to gain insights into collision trends, identify potential hotspots, and explore temporal and spatial patterns to better understand road safety issues in Toronto. 
+       Analyzed traffic collisions to gain insights into collision trends, identify potential hotspots, and explore temporal and spatial patterns to better understand road safety issues in Toronto.
+- [**My Chess Games Time-Series Analysis**](https://github.com/raghadkibrahim/my_chess_games)  
+         Analyzed historical chess games data to uncover trends, patterns, and insights over time. By converting .pgn files into structured data, key metrics such as win rate, rating progression, game frequency, and opening preferences are tracked. Time-series techniques, including rolling averages and seasonal decomposition, help identify performance trends and periodic fluctuations.
+- [**Amman Weather Data Analysis**](https://github.com/raghadkibrahim/amman-weather-project)
+         
 
 <br>
 
