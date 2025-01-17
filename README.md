@@ -26,9 +26,13 @@ Whether you’re interested in collaborating, need tutoring, or just want to cha
   
 - [**Amman Weather Data Analysis**](https://github.com/raghadkibrahim/amman-weather-project)
   <br>
+  <br>
+
+- [**WNV Mosquito Data Analysis**](https://github.com/raghadkibrahim/WNV-mosquito-pred)
+
        
 <br>
-<br>
+
 
 ### Technical Skills
 
